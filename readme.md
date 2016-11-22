@@ -1,2 +1,2 @@
 # GitStudy
-king comes
+king comes, surrender
